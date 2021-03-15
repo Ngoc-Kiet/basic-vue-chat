@@ -1,10 +1,10 @@
-.window {
+r.window {
   &__header {
 
     &__container {
       background: linear-gradient(90deg, $primary, $secondary);
       padding: 10px 5px;
-      color: $header-color;
+      color: red;
       font-weight: $bold;
       z-index: 1;
 
